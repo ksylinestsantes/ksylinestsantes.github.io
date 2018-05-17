@@ -9,6 +9,14 @@
 img{
   max-width: 100%;
   height: auto;
-  width: 350px;
+  width: 600px;
   margin-top: 5%;
 }
+
+/*
+kaneis allages ston kwdika kai meta
+cd Documents/KsylinesTsantes
+git add . (h teleia shmainei OLA osa exeis allaksei)
+git commit -m "blablabla" (kati na sou thimizei ti allages ekanes)
+git push
+*/
